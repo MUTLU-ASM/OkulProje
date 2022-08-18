@@ -1,0 +1,15 @@
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\OkulProje\OkulProje\bin\Debug\OkulProje.exe.config
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\OkulProje\OkulProje\bin\Debug\OkulProje.exe
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\OkulProje\OkulProje\bin\Debug\OkulProje.pdb
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\OkulProje\OkulProje\obj\Debug\OkulProje.csproj.AssemblyReference.cache
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\OkulProje\OkulProje\obj\Debug\OkulProje.frmGiris.resources
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\OkulProje\OkulProje\obj\Debug\OkulProje.Properties.Resources.resources
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\OkulProje\OkulProje\obj\Debug\OkulProje.csproj.GenerateResource.cache
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\OkulProje\OkulProje\obj\Debug\OkulProje.csproj.CoreCompileInputs.cache
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\OkulProje\OkulProje\obj\Debug\OkulProje.exe
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\OkulProje\OkulProje\obj\Debug\OkulProje.pdb
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\OkulProje\OkulProje\obj\Debug\OkulProje.frmOgrenciNotlar.resources
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\OkulProje\OkulProje\obj\Debug\OkulProje.frmKulupİslemleri.resources
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\OkulProje\OkulProje\obj\Debug\OkulProje.frmOgretmen.resources
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\OkulProje\OkulProje\obj\Debug\OkulProje.frmDersler.resources
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\OkulProje\OkulProje\obj\Debug\OkulProje.frmOgrenci.resources
